@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vh6d+PTpkBoL8MHQ6Rm1msws9vrMuiz4ABjRGp3M1wvpY3oUfO39eZ7QKPhQqyGbqf6imocjTmu7RHAnWjvJEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bkonecki\\source\\repos\\Drapieznik-ofiara\\Drapieznik-ofiara\\Drapieznik-ofiara.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bkonecki\\.nuget\\packages\\documentformat.openxml\\2.20.0\\documentformat.openxml.2.20.0.nupkg.sha512",
+    "C:\\Users\\bkonecki\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
